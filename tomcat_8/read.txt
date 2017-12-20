@@ -1,8 +1,8 @@
 此目录包含以下信息和资料：
 
-1、需要自行下载：apache-tomcat-8.0.24.tar
+1、根据Dockefile的配置，需要自行下载：apache-tomcat-8.0.24.tar
 
-2、需要自行下载：jdk-8u131-linux-x64.tar
+2、根据Dockefile的配置，需要自行下载：jdk-8u131-linux-x64.tar
 
 3、Dockerfile 文件
 
